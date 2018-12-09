@@ -1,0 +1,22 @@
+h1 {
+	text-align: center;
+}
+
+img {
+	width: 300px;
+	height: 200px;
+	margin: 5px;
+}
+
+.left {
+	float: left;
+	width: 50%;
+}
+
+.right {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: right;
+	float: right;
+	width: 50%;
+}
